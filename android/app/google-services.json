@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307602166744",
+    "project_id": "flutter-projects-a0afb",
+    "storage_bucket": "flutter-projects-a0afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307602166744:android:72938d7d04e806c730d8ad",
+        "android_client_info": {
+          "package_name": "com.ketchup.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDhqjsUtkt2uVLlKYy1wmD52kahzqAFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
